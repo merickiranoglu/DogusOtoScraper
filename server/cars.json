@@ -1,0 +1,38 @@
+{
+  "Volkswagen": {
+    "Polo": "polo-ae1",
+    "Yeni Taigo": "yeni-taigo-cs1",
+    "T-Cross": "t-cross-c11",
+    "Golf": "golf-cd1",
+    "Passat": "passat-cb2",
+    "Passat Variant": "passat-variant-cb5",
+    "Tiguan": "tiguan-ax1",
+    "Tiguan Allspace": "tiguan-allspace-bj2",
+    "Yeni T-Roc": "yeni-t-roc-d11",
+    "Touareg": "touareg-cr7"
+  },
+  "Seat": {
+
+  },
+  "Skoda": {
+    "Fabia": "fabia-pj3",
+    "Scala": "scala-nw1",
+    "Octavia": "octavia-nx3",
+    "Superb": "superb-3v3",
+    "Kamiq": "kamiq-nw4",
+    "Karoq": "karoq-nu7",
+    "Kodiaq": "kodiaq-ns7"
+  },
+  "Audi": {
+    "A3 Sedan": "a3-sedan-8ys",
+    "A3 Sportback": "a3-sportback-8ya",
+    "A4 Sedan": "a4-sedan-8wc",
+    "A4 Avant": "a4-avant-8wd",
+    "A4 Allroad Quattro": "a4-allroad-8wj",
+    "A5 Cabriolet": "a5-cabrio-f5e",
+    "A3 Sedan": "a3-sedan-8ys",
+    "A3 Sedan": "a3-sedan-8ys",
+    "A3 Sedan": "a3-sedan-8ys",
+    "A3 Sedan": "a3-sedan-8ys",
+  }
+}

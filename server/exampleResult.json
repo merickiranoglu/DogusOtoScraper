@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "listimagepath": "/Dosyalar/Vehicle Color/Audi/A3-Sedan/Advanced/metalik-mitos-siyahi.png",
+      "menuimagepath": "/Dosyalar/Model/png-bos-370x250.png",
+      "menuimagealttext": "A3 Sedan",
+      "stickyimage": "/Dosyalar/Vehicle Color/Audi/A3-Sedan/Advanced/metalik-floret-gumus-gri.png",
+      "brandname": "Audi",
+      "modelname": "A3 Sedan",
+      "submodelname": "S3 Sedan 2.0 Turbo FSI quattro 310 hp S tronic ",
+      "colorname": "Metalik Mitos Siyahı",
+      "colorhexcode": "3d3d3f",
+      "equipmentsumcount": 180,
+      "optionalequipmentsumcount": 13,
+      "isgeartypeauto": true,
+      "geartypeclass": "Otomatik",
+      "hiddenpriceforbrandbyadmin": true,
+      "vehiclereservedealer": [
+        {
+          "code": "80A66",
+          "dealerid": 4838,
+          "dealername": "DOĞUŞ OTO ESENYURT",
+          "isoptiontocustomer": false,
+          "isshowroombadge": true
+        }
+      ],
+      "vehiclereservedealerids": [
+        4838
+      ],
+      "code": "80A66",
+      "permalink": "audi-s3-sedan-20-turbo-fsi-quattro-310-hp-s-tronic-80a66",
+      "brandid": 15067,
+      "modelid": 48010,
+      "submodelid": 90093,
+      "year": 2022,
+      "price": 2532946.32,
+      "campaignprice": 0.0,
+      "dealerprice": 0.0,
+      "equipmentcount": 69,
+      "fueltype": "Benzin",
+      "enginecapacity": 1984,
+      "geartype": "S tronic",
+      "bodytype": "NB",
+      "colorcode": "0E0E",
+      "duedate": 1664668800000,
+      "propertygroupcode": "2648",
+      "countrymodelid": 0
+    },
+    {
+      "listimagepath": "/Dosyalar/Vehicle Color/Audi/A3-Sedan/Advanced/daytona-gri.png",
+      "menuimagepath": "/Dosyalar/Model/png-bos-370x250.png",
+      "menuimagealttext": "A3 Sedan",
+      "stickyimage": "/Dosyalar/Vehicle Color/Audi/A3-Sedan/Advanced/metalik-floret-gumus-gri.png",
+      "brandname": "Audi",
+      "modelname": "A3 Sedan",
+      "submodelname": "S3 Sedan 2.0 Turbo FSI quattro 310 hp S tronic ",
+      "colorname": "Sedefli Daytona Grisi",
+      "colorhexcode": "363a3b",
+      "equipmentsumcount": 180,
+      "optionalequipmentsumcount": 13,
+      "isgeartypeauto": true,
+      "geartypeclass": "Otomatik",
+      "hiddenpriceforbrandbyadmin": true,
+      "vehiclereservedealer": [
+        {
+          "code": "91BDA",
+          "dealerid": 4837,
+          "dealername": "DOĞUŞ OTO BURSA",
+          "isoptiontocustomer": false,
+          "isshowroombadge": true
+        },
+        {
+          "code": "91BDA",
+          "dealerid": 4840,
+          "dealername": "DOĞUŞ OTO KARTAL",
+          "isoptiontocustomer": false,
+          "isshowroombadge": true
+        }
+      ],
+      "vehiclereservedealerids": [
+        4837,
+        4840
+      ],
+      "code": "91BDA",
+      "permalink": "audi-s3-sedan-20-turbo-fsi-quattro-310-hp-s-tronic-91bda",
+      "brandid": 15067,
+      "modelid": 48010,
+      "submodelid": 90093,
+      "year": 2022,
+      "price": 2532946.32,
+      "campaignprice": 0.0,
+      "dealerprice": 0.0,
+      "equipmentcount": 69,
+      "fueltype": "Benzin",
+      "enginecapacity": 1984,
+      "geartype": "S tronic",
+      "bodytype": "NB",
+      "colorcode": "6Y6Y",
+      "duedate": 1664668800000,
+      "propertygroupcode": "2648",
+      "countrymodelid": 0
+    },
+    {
+      "listimagepath": "/Dosyalar/Vehicle Color/Audi/A3-Sedan/Advanced/metalik-mitos-siyahi.png",
+      "menuimagepath": "/Dosyalar/Model/png-bos-370x250.png",
+      "menuimagealttext": "A3 Sedan",
+      "stickyimage": "/Dosyalar/Vehicle Color/Audi/A3-Sedan/Advanced/metalik-floret-gumus-gri.png",
+      "brandname": "Audi",
+      "modelname": "A3 Sedan",
+      "submodelname": "S3 Sedan 2.0 Turbo FSI quattro 310 hp S tronic ",
+      "colorname": "Metalik Mitos Siyahı",
+      "colorhexcode": "3d3d3f",
+      "equipmentsumcount": 180,
+      "optionalequipmentsumcount": 13,
+      "isgeartypeauto": true,
+      "geartypeclass": "Otomatik",
+      "hiddenpriceforbrandbyadmin": true,
+      "vehiclereservedealer": [
+        {
+          "code": "CED85",
+          "dealerid": 20188,
+          "dealername": "DOĞUŞ OTO MASLAK",
+          "isoptiontocustomer": false,
+          "isshowroombadge": true
+        }
+      ],
+      "vehiclereservedealerids": [
+        20188
+      ],
+      "code": "CED85",
+      "permalink": "audi-s3-sedan-20-turbo-fsi-quattro-310-hp-s-tronic-ced85",
+      "brandid": 15067,
+      "modelid": 48010,
+      "submodelid": 90093,
+      "year": 2022,
+      "price": 2535866.82,
+      "campaignprice": 0.0,
+      "dealerprice": 0.0,
+      "equipmentcount": 69,
+      "fueltype": "Benzin",
+      "enginecapacity": 1984,
+      "geartype": "S tronic",
+      "bodytype": "NB",
+      "colorcode": "0E0E",
+      "duedate": 1664668800000,
+      "propertygroupcode": "2648",
+      "countrymodelid": 0
+    }
+  ],
+  "status": {
+    "code": 0,
+    "message": "Succeed"
+  }
+}
